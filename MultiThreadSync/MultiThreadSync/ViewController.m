@@ -55,6 +55,7 @@
 - (void)dealloc {
     // 销毁锁
     pthread_mutex_destroy(&pNormalLock);
+    // 销毁递归锁
     pthread_mutex_destroy(&pRecursiveLock);
 }
 
