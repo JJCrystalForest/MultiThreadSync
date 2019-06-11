@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  MultiThreadSync
 //
-//  Created by 杨馥瑞 on 2019/6/11.
+//  Created by r_瑞 on 2019/6/11.
 //  Copyright © 2019 yangfurui. All rights reserved.
 //
 
